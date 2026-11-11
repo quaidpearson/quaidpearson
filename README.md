@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quaidpearson
-- 👀 I’m very proficient in front-end development
-- 🌱 I’m currently learning back-end development
+- 👨🏻‍💻 I’m very proficient in front-end development
+- ⚙️ I’m currently learning back-end development
 - 📫 How to reach me → quaidpearson@gmail.com
 
 <!---
